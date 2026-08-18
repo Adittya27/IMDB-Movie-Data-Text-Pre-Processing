@@ -1,5 +1,8 @@
 # IMDB Text Preprocessing
-Link for the Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+Link for the Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews.
+
+
+
 A complete text preprocessing pipeline for the [IMDB Movie Reviews dataset](https://ai.stanford.edu/~amaas/data/sentiment/) (50,000 reviews), built in Python for use in Google Colab. This notebook takes raw, noisy review text and turns it into clean, model-ready features using classic NLP techniques.
 
 ## What it does
